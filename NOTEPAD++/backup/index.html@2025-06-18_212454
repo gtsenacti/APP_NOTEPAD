@@ -1,0 +1,6 @@
+-- Criação da tabela de usuarios -- 
+
+	CREATE TABLE IF NOT EXISTS CadastroUsuario(
+		IdUsuario 
+	
+	);
